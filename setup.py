@@ -33,7 +33,7 @@ setup(
         ],
     extras_require={
         'all': [
-            "hmr2 @ git+https://github.com/shubham-goel/4D-Humans.git",
+            "hmr2 @ git+https://github.com/Fannovel16/4D-Humans.git",
         ],
         'blur': [
             'facenet_pytorch'
